@@ -1,0 +1,29 @@
+{
+  "name": "Disable Content Security Policy",
+  "description": "A extension that set csp value empty",
+  "version": "1.0.0",
+  "author": "Mywait",
+  "homepage_url": "https://github.com/WithoutHair/Disable-Content-Security-Policy",
+  "manifest_version": 3,
+  "permissions": [
+    "declarativeNetRequest",
+    "browsingData",
+    "tabs"
+  ],
+  "host_permissions": [
+    "http://*/*",
+    "https://*/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_icon": {
+      "16": "icon/cola_gray.png"
+    }
+  },
+  "icons": {
+    "48": "icon/cola_48.png",
+    "128": "icon/cola_128.png"
+  }
+}
