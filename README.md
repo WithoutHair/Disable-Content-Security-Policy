@@ -14,3 +14,11 @@ If it is useful for you, please star.Thanks!
 一个能够帮助你禁用或者说绕过内容安全策略的chrome扩展。
 
 如果帮助到了你，请不吝star!
+
+# Download
+
+The extension is still waiting for review by Chrome.
+
+You can download the .crx file in the release page and drag it into the explorer.
+
+扩展还在审核中，在release中下载crx文件然后拖拽到浏览器中即可。
