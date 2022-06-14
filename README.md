@@ -17,8 +17,6 @@ If it is useful for you, please star.Thanks!
 
 # Download
 
-The extension is still waiting for review by Chrome.
+Chrome: https://chrome.google.com/webstore/detail/disable-content-security/eckgajjlhojckchohogcblfjhpfdmoge?hl=en
 
-You can download the .crx file in the release page and drag it into the explorer.
-
-扩展还在审核中，在release中下载crx文件然后拖拽到浏览器中即可。
+You can also download the .crx file in the release page and drag it into the explorer.
