@@ -15,8 +15,16 @@ If it is useful for you, please star.Thanks!
 
 如果帮助到了你，请不吝star!
 
+# Usage
+
+Click the cola icon.When it turns red,it's working.When it turns gray,it's not.
+
+点击可乐icon开启/关闭，红色代表启用扩展，灰色代表否。
+
 # Download
 
-Chrome: https://chrome.google.com/webstore/detail/disable-content-security/eckgajjlhojckchohogcblfjhpfdmoge?hl=en
+Chrome: https://chrome.google.com/webstore/detail/disable-content-security/eckgajjlhojckchohogcblfjhpfdmoge
 
 You can also download the .crx file in the release page and drag it into the explorer.
+
+访问不了谷歌的请点击页面右侧Releases下载.crx文件拖动到浏览器中安装。
