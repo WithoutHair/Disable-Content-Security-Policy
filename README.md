@@ -25,6 +25,8 @@ Click the cola icon.When it turns red,it's working.When it turns gray,it's not.
 
 Chrome: https://chrome.google.com/webstore/detail/disable-content-security/eckgajjlhojckchohogcblfjhpfdmoge
 
+Edge: https://microsoftedge.microsoft.com/addons/detail/cddgnofgikhkclcjhmenlmhnmbehdnmf
+
 You can also download the .crx file in the release page and drag it into the explorer.
 
 访问不了谷歌的请点击页面右侧Releases下载.crx文件拖动到浏览器中安装。
