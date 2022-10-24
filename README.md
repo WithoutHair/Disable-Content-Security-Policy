@@ -30,3 +30,7 @@ Edge: https://microsoftedge.microsoft.com/addons/detail/cddgnofgikhkclcjhmenlmhn
 You can also download the .crx file in the release page and drag it into the explorer.
 
 访问不了谷歌的请点击页面右侧Releases下载.crx文件拖动到浏览器中安装。
+
+# Next Release Preview
+
+Hi guys!I'm planning to add a new feature that the extension can be enabled on every page you open.Let me know if you need this.Any other suggestions are welcome.:)
